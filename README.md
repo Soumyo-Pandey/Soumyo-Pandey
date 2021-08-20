@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Soumyo-Pandey
 - 👀 I’m interested in Data Structure And Algorithms, Machine Learning, App Development And Web Development
 - 🌱 I’m currently learning Machine Learning, Deep Learning and App Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Data Analysis And Machine Learning
 - 📫 How to reach me soumyopandey2001@gmail.com
 
 <!---
