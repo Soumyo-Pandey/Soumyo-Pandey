@@ -8,6 +8,12 @@
 
 1. C-Programming Language 2. C++-Programming Language 3.Python Programming Language. 4.Javascript Programming Language 4.Java Programming Language 5.HTML and CSS 6.Little bit of Kotline.
 
+
+Connect With Me
+![image](https://user-images.githubusercontent.com/70663140/131750741-8bf243dc-db5c-4abc-af9e-28e996775390.png)
+
+![image](https://user-images.githubusercontent.com/70663140/131750837-c1dd4541-6b53-45f3-af5b-8140455f6f20.png)
+
 <!---
 Soumyo-Pandey/Soumyo-Pandey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
