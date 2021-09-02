@@ -23,10 +23,9 @@
  - 💬 Ask me about: I'm Currently a 2nd Year Computer Science Student of B.P Poddar Institute Of Management And Technology, Kolkata. I'm currently learning Machine Learning and Deep Learning Along with some other Programming Language.
 - 😄 Pronouns: Pandey
 - 👯 Interested on : Machine Learning and New Programming Language
- 
-[1.1]:  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
-[7.1]: https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
+![Github stats](https://github-readme-stats.vercel.app/api?username=Soumyo-Pandey&theme=tokyonight&title_color=fff)
+
 
 
 <!--
