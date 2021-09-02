@@ -24,6 +24,11 @@
 - 😄 Pronouns: Pandey
 - 👯 Interested on : Machine Learning and New Programming Language
  
+ 
+ 
+ https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+ 
+ https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
 
 
 <!--
