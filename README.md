@@ -24,14 +24,10 @@
 - 😄 Pronouns: Pandey
 - 👯 Interested on : Machine Learning and New Programming Language
  
-
 [1.1]:  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 [7.1]: https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
 
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
- 
 
 <!--
 **Soumyo-Pandey/Soumyo-Pandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
