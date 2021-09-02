@@ -24,6 +24,10 @@
 - 😄 Pronouns: Pandey
 - 👯 Interested on : Machine Learning and New Programming Language
 
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Soumyo-Pandey&theme=light)
+
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Soumyo-Pandey&theme=tokyonight&title_color=fff)
 
 
