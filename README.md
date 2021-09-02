@@ -36,8 +36,3 @@
 ![](https://activity-graph.herokuapp.com/graph?username=Soumyo-Pandey&theme=chartreuse-dark	)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Soumyo-Pandey&theme=tokyonight&title_color=fff)
-
-
-
-<!--
-**Soumyo-Pandey/Soumyo-Pandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
